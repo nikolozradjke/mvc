@@ -1,0 +1,19 @@
+{
+    "name": "radjk/mvc",
+    "autoload": {
+        "psr-4": {
+            "app\\": "./app",
+            "core\\": "./core"
+        }
+    },
+    "authors": [
+        {
+            "name": "radjke",
+            "email": "nikolozkemularia@gmail.com"
+        }
+    ],
+    "require": {
+        "clancats/hydrahon": "^1.1",
+        "vlucas/phpdotenv": "^5.5"
+    }
+}
